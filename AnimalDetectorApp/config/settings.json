@@ -1,0 +1,17 @@
+{
+  "default_model_type": "custom",
+  "default_model_path": "custom_weights/yolo/yolo26/yolo26m_(25_16)_(Animal_Detection_Dataset-1)_(1).pt",
+  "photo_input_dir": "test_samples/photo",
+  "video_input_dir": "test_samples/video",
+  "photo_results_dir": "detect_results/photo",
+  "video_results_dir": "detect_results/video",
+  "stream_results_dir": "detect_results/stream",
+  "confidence": 0.25,
+  "iou": 0.7,
+  "imgsz": 640,
+  "device": "auto",
+  "save_txt": true,
+  "save_conf": true,
+  "show_labels": true,
+  "show_conf": true
+}

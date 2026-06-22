@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# My project
+AnimalDetectorApp/app_env
+AnimalDetectorApp/script_examples
+AnimalDetectorApp/docs
+
+AnimalDetectorApp/test_samples/photo/
+AnimalDetectorApp/test_samples/video/
+
+AnimalDetectorApp/detect_results/photo/
+AnimalDetectorApp/detect_results/stream/
+AnimalDetectorApp/detect_results/video/
+
+AnimalDetectorApp/models/yolo/yolo11/
+AnimalDetectorApp/models/yolo/yolo26/

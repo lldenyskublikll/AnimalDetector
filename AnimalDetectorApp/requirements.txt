@@ -1,0 +1,5 @@
+PySide6==6.11.1
+ultralytics==8.4.62
+torch==2.12.0+cu130
+opencv-python==4.13.0.92
+imageio-ffmpeg==0.6.0
